@@ -1,6 +1,5 @@
 
-# Electronic Music Production and Sound Design.
-#### COURSE PROGRAM 2016 (Spring) at [BLCKBOX](https://www.facebook.com/blckb0x/)
+# [BLCK BOX](https://www.facebook.com/blckb0x/) курс Electronic music production and Sound Design. (Spring 2016)
 
 ### СОДЕРЖАНИЕ
 
@@ -10,6 +9,9 @@
 ### 4.[Создание аранжировки](https://github.com/minikin/emp#4-Создание-аранжировки)
 ### 5.[Сведение (Mixing)](https://github.com/minikin/emp#5-Сведение-mixing-pro-tools-12-и-logic-x) // В ПРОЦЕССЕ
 ### 6.[Мастеринг](https://github.com/minikin/emp#6-Мастеринг)
+
+
+========================================================
 
 
 #### 1.	Введение в звук и музыкальную теорию
@@ -83,7 +85,7 @@
 			Использование встроенного секвенсора
 
 
-		Семплирование (NI Kontakt,Live Sampler, EXS24):**
+		Семплирование (NI Kontakt,Live Sampler, EXS24):
 
 			История семплирования,
 			Основные приемы (root key, mapping, tuning sample),
