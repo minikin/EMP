@@ -1,6 +1,6 @@
 
 # Electronic Music Production and Sound Design.
-### COURSE PROGRAM 2016 (Spring) at [BLCKBOX](https://www.facebook.com/blckb0x/)
+#### COURSE PROGRAM 2016 (Spring) at [BLCKBOX](https://www.facebook.com/blckb0x/)
 
 ### СОДЕРЖАНИЕ
 
