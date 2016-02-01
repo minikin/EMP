@@ -1,18 +1,15 @@
 
-# Electronic Music Production and Sound Design (EMP&SD 2016)
-# COURSE PROGRAM 2016 (Spring) at BLCKBOX
-#### For more information please visit: [https://www.facebook.com/blckb0x/](https://www.facebook.com/blckb0x/)
-
+# Electronic Music Production and Sound Design.
+## COURSE PROGRAM 2016 (Spring) at [BLCKBOX](https://www.facebook.com/blckb0x/)
 
 ## СОДЕРЖАНИЕ
 
-### 1.Введение в звук и музыкальную теорию
-### 2.Саунд дизайн
-### 3.Работа с Аудио 
-### 4.Создание аранжировки
-### 5.Сведение (Mixing) // В ПРОЦЕССЕ
-### 6.Мастеринг
-
+### 1.[Введение в звук и музыкальную теорию](https://github.com/minikin/emp#1-Введение-в-звук-и-музыкальную-теорию)
+### 2.[Саунд дизайн](https://github.com/minikin/emp#2-Саунд-дизайн)
+### 3.[Работа с Аудио](https://github.com/minikin/emp#3-Работа-с-Аудио-pt12-logic-x-live-9) 
+### 4.[Создание аранжировки](https://github.com/minikin/emp#4-Создание-аранжировки)
+### 5.[Сведение (Mixing)](https://github.com/minikin/emp#5-Сведение-mixing-pro-tools-12-и-logic-x) // В ПРОЦЕССЕ
+### 6.[Мастеринг](https://github.com/minikin/emp#6-Мастеринг)
 
 
 #### 1.	Введение в звук и музыкальную теорию
@@ -29,7 +26,7 @@
 
 		Теория синтеза звука
 
-		**Subtractive синтез:**
+		**Subtractive синтез**:
 
 			Что такое синтезатор? Кратка история аналогового синтеза,
 			Принципе аналогов синтеза,
