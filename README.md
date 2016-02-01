@@ -1,8 +1,8 @@
 
 # Electronic Music Production and Sound Design.
-## COURSE PROGRAM 2016 (Spring) at [BLCKBOX](https://www.facebook.com/blckb0x/)
+### COURSE PROGRAM 2016 (Spring) at [BLCKBOX](https://www.facebook.com/blckb0x/)
 
-## СОДЕРЖАНИЕ
+### СОДЕРЖАНИЕ
 
 ### 1.[Введение в звук и музыкальную теорию](https://github.com/minikin/emp#1-Введение-в-звук-и-музыкальную-теорию)
 ### 2.[Саунд дизайн](https://github.com/minikin/emp#2-Саунд-дизайн)
@@ -26,7 +26,7 @@
 
 		Теория синтеза звука
 
-		**Subtractive синтез**:
+		__Subtractive синтез:__
 
 			Что такое синтезатор? Кратка история аналогового синтеза,
 			Принципе аналогов синтеза,
