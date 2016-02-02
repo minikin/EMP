@@ -1,4 +1,6 @@
 
+![BLCK BOX курс Electronic music production and Sound Design](https://dl.dropboxusercontent.com/s/nsdf4bg5s0xiu10/111.png)
+
 # [BLCK BOX](https://www.facebook.com/blckb0x/) курс Electronic music production and Sound Design. (Spring 2016)
 
 ### СОДЕРЖАНИЕ
